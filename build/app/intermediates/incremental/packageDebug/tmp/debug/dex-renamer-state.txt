@@ -1,0 +1,4 @@
+#Wed Jan 25 16:10:25 IST 2023
+base.0=/home/aditya/IdeaProjects/driver_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
